@@ -12,7 +12,7 @@ The game gives hints whether the guessed number is too high or too low.
 - if-else conditions
 - user input
 
-## Hoow to Run 
+## How to Run 
 1- Make sure Python is installed
 2- Run the file using:
    python game.py
